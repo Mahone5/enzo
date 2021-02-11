@@ -1,0 +1,12 @@
+/*rgb(212, 179, 227)
+rgb(201, 160, 220)
+rgb(190, 141, 213)
+
+Variable example:
+.container {
+  --blue: #6495ed;
+  --white: #faf0e6;
+}
+
+body { background-color: var(--blue); }
+*/
