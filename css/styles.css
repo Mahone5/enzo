@@ -55,7 +55,7 @@ h1 {
 }
 
 hr {
-  border: 2px solid #ffe9ec;
+  border: 1px solid #ffe9ec;
 }
 
 h2 {
@@ -65,4 +65,14 @@ h2 {
   font-size: 4rem;
   font-weight: 300;
   height: 10rem;
+}
+
+.navbar-group {
+  font-size: 2rem;
+  height: 10rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  text-transform: uppercase;
 }
